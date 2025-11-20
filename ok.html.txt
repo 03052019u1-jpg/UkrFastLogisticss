@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Дякуємо — UkrFastLogistics</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>UkrFastLogistics</header>
+
+<nav>
+    <a href="index.html">Головна</a>
+</nav>
+
+<section class="section">
+    <h2>Дякуємо!</h2>
+    <p>Ваш запит успішно опрацьовується.</p>
+    <p><a href="index.html">Повернутися на головну</a></p>
+</section>
+
+<footer>
+    © 2025 UkrFastLogistics
+</footer>
+
+</body>
+</html>
